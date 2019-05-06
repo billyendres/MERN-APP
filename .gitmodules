@@ -1,0 +1,3 @@
+[submodule "client/client"]
+	path = client/client
+	url = https://github.com/billyendres/MERN-APP
